@@ -28,3 +28,15 @@ A complete 8-week Codelivly Network Engineering program with recorded lecture vi
 2. Open the Week folder.
 3. Open Day-1 or Day-2.
 4. Each Day folder has the class video link and the slides.
+
+---
+
+## About
+
+This course was prepared and taught by **Avishek Paudel** under **Codelivly**.
+
+- Instructor: [Avishek Paudel](https://www.linkedin.com/in/avishek-paudel-a72388413/)
+- Organization: Codelivly
+- Course: Network Engineering Live Training and Industry Project Exxperience  (12 weeks)
+
+
