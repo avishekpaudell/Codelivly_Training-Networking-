@@ -2,5 +2,6 @@
 
 ## Class Video
 
+Day 1
 [▶️ Watch on YouTube](https://youtu.be/sebiZ6faocE)
 
